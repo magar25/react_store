@@ -1,0 +1,9 @@
+techlologies used:
+npm, react, axios, bootstrap, react-bootstrap,
+react model, react-router-dom
+
+How to run locally:
+#install npm
+#open the projet in vscode
+#open terminal in vscode or direct form the project
+#type npm start and press enter
